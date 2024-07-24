@@ -11,10 +11,10 @@
 
 ###
 <p align="left">
- *[Estrella](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon1/out.bmp)<br>
- *[Cuadrado](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon2/out.bmp)<br>
- *[Triangulo](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon3/out.bmp)<br>
- *[Tetera](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon4/out.bmp)</p>
+ [Estrella](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon1/out.bmp)<br>
+ [Cuadrado](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon2/out.bmp)<br>
+ [Triangulo](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon3/out.bmp)<br>
+ [Tetera](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon4/out.bmp)</p>
 
 ###
 
