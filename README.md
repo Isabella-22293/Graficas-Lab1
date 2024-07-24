@@ -10,8 +10,11 @@
 <h2 align="left">Graficas por computadora</h2>
 
 ###
-
-<p align="left">1. Estrella<br>2. Cuadrado<br>3. Triangulo<br>4. Tetera</p>
+<p align="left">
+ *[Estrella](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon1/out.bmp)<br>
+ *[Cuadrado](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon2/out.bmp)<br>
+ *[Triangulo](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon3/out.bmp)<br>
+ *[Tetera](https://raw.githubusercontent.com/Isabella-22293/Graficas-Lab1/main/polygon4/out.bmp)</p>
 
 ###
 
